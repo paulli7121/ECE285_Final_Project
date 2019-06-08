@@ -5,7 +5,7 @@ This is project Style Transfer developed by team Moha composed of Changyu Li, Ji
 ## Requirement
 None
 
-##Code organization
+## Code organization
 =================
 demo.ipynb -- Run a demo of our code (reproduces Figure 3 of our report)
 train.ipynb -- Run the training of our model (as described in Section 2)
