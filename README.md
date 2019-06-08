@@ -1,10 +1,8 @@
 # ECE285 Final Project 
 # Description
-=============
 This is project Style Transfer developed by team Moha composed of Changyu Li, Jiayu He and Wenda Chen.
 
 # Requirement
-=============
 None
 
 Code organization
