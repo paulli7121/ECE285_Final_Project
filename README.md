@@ -1,10 +1,12 @@
-# ECE285_Final_Project
-Description
-===========
-This is project B developed by team Moha composed of Changyu LI, Jiayu He and Wenda Chen.
-Requirements
-============
-Null
+# ECE285 Final Project 
+# Description
+=============
+This is project Style Transfer developed by team Moha composed of Changyu Li, Jiayu He and Wenda Chen.
+
+# Requirement
+=============
+None
+
 Code organization
 =================
 demo.ipynb -- Run a demo of our code (reproduces Figure 3 of our report)
