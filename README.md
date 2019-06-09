@@ -1,6 +1,7 @@
 # ECE285 Final Project 
 ## Description
-This is project Style Transfer developed by team Moha composed of Changyu Li, Jiayu He and Wenda Chen.
+This is project Style Transfer developed by team Moha composed of Changyu Li, Jiayu He and Wenda Chen. To 
+run the demo, please download all the files and run the demo files. 
 
 ## Requirement
 Pytorch, please make sure the training data set (COCO_2015) is at /datasets/COCO-2015 directory 
