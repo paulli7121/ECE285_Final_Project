@@ -3,7 +3,7 @@
 This is project Style Transfer developed by team Moha composed of Changyu Li, Jiayu He and Wenda Chen.
 
 ## Requirement
-Pytorch, please also move the training data set (COCO_2015) to the directory 
+Pytorch, please also move the training data set (COCO_2015) to /datasets/COCO-2015 directory 
 
 ## Code organization
 <pre>
