@@ -14,5 +14,10 @@ ResNetTrained -------------------- The file stored the trained resnet parameters
                                    ResNetGen and load this file to get the trained network
 ResBlock.py ---------------------- The python file which contained the design of a residual block used in 
                                    the project
+ResNetGenerator.py --------------- The python file which contained the design of a ResNet, which is used as 
+                                   transform function 
+Task2_Training.ipynb ------------- The training program of task 2
+Task2_Demo.ipynb ----------------- The Demo program of task 2. The program loads the trained learning parameters 
+                                   stored by the file ResNetTrained. 
 </pre>
                               
