@@ -7,7 +7,8 @@ Pytorch, please also move the training data set (COCO_2015) to the directory
 
 ## Code organization
 <pre>
-285FinalProject_part1.ipynb ------ Run a demo of our code for part1  
+style------------------------------Folder contain the training images
+Task1_Demo.ipynb ----------------- Run a demo of our code for part1  
 285FinalProject_part1_exp.ipynb -- Run the training of our task1 (reproduces Figure 3 and 4 of our report)  
 285FinalProject_part1.py --------- Python file for the part 1 demo code  
 ResNetTrained -------------------- The file stored the trained resnet parameters, create an instance of type 
