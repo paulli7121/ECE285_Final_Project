@@ -10,8 +10,8 @@ run the demo, please download all the files(especially the file ResNetTrained, i
 <pre>
 style------------------------------Folder contain the training images
 Task1_Demo.ipynb ----------------- Run a demo of our code for part1  
-285FinalProject_part1_exp.ipynb -- Run the training of our task1 (reproduces Figure 3 and 4 of our report)  
-285FinalProject_part1.py --------- Python file for the part 1 demo code  
+Task1_training.ipynb -- Run the training of our task1 (reproduces Figure 3 and 4 of our report)  
+Task1.py --------- Python file for the part 1 demo code  
 ResNetTrained -------------------- The file stored the trained resnet parameters, create an instance of type 
                                    ResNetGen and load this file to get the trained network
 ResBlock.py ---------------------- The python file which contained the design of a residual block used in 
