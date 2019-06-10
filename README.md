@@ -4,7 +4,7 @@ This is project Style Transfer developed by team Moha composed of Changyu Li, Ji
 
 ## Requirement
 Pytorch, please make sure the training data set (COCO_2015) is at /datasets/COCO-2015 directory. To 
-run the demo, please download all the files(especially the file ResNetTrained, it contains the trained parameters) and run the demo files.
+run the demo, please download all the files(especially the file ResNetTrained, it contains the trained parameters) ,makesure the images are in the same directory of notebook file and run the demo files.
 
 ## Code organization
 <pre>
